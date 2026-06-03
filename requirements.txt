@@ -5,3 +5,5 @@ openpyxl
 sqlalchemy
 pymysql
 matplotlib
+seaborn
+numpy
