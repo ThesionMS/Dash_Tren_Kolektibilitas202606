@@ -7,3 +7,5 @@ pymysql
 matplotlib
 seaborn
 numpy
+flask
+requests
